@@ -1,0 +1,31 @@
+.container {
+  background-color: aquamarine;
+  height: 95px;
+  width: 315px;
+  border-radius: 10px;
+  margin-left: 40%;
+}
+.search {
+  display: flex;
+  justify-content: center;
+  padding-top: 35px;
+}
+
+.topbar {
+  background-color: brown;
+  height: 60px;
+}
+
+.offers {
+  background-color: chocolate;
+}
+
+img {
+  height: 25px;
+  margin-top: 18px;
+  margin-left: 427px;
+}
+
+.Offers {
+  background-color: rgb(122, 122, 122);
+}
